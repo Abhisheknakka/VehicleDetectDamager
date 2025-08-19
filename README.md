@@ -39,8 +39,8 @@ A comprehensive AI-powered system for detecting and analyzing vehicle damage by 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/vehicle-damage-detector.git
-cd vehicle-damage-detector
+git clone https://github.com/Abhisheknakka/VehicleDetectDamager.git
+cd VehicleDetectDamager
 ```
 
 ### 2. Start the Backend Server
